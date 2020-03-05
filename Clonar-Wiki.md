@@ -44,6 +44,7 @@ Pinchamos en la pantalla, del explorador, con el botón derecho y en el popput q
 ![](/.attachments/Imagen3-4106388d-ec4a-4fd1-9929-a19dd1d95a1f.png)
 
 En ella escribiremos git clone y la URL copiada anterioemente:
+
 ```
 git clone https://dev.azure.com/<AccountName>/<TeamProjectName>/_git/<WikiName>
 ```
@@ -64,3 +65,5 @@ https://docs.microsoft.com/es-es/azure/devops/project/wiki/wiki-update-offline?v
 Es importante conocer los archivos del repositorio de Wiki Git y la estructura de archivos. Esta información se encuentra en el enlace:
 
 https://docs.microsoft.com/es-es/azure/devops/project/wiki/wiki-file-structure?view=azure-devops.
+
+Modifico esto.
