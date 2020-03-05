@@ -56,7 +56,7 @@ git config --global core.editor "'Ruta_de_Notepad/notepad++.exe'"
 Los push y pull los podemos hacer en la consola o en Sourcetree. Para añadir una página, desde la consola de Git, tendremos que utilizar los comandos:
 
 git add Fichero.md
-git commit -m 'Mensaje espicación commit'
+git commit -m 'Mensaje esplicación commit'
 git push
 
 Tenemos información de cómo clonar y actualizar el contenido de la wiki sin conexión, en local, en el enlace:
